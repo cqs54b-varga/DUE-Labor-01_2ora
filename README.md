@@ -1,2 +1,3 @@
 # DUE-Labor-01_2ora
 DUE LABORGYAKORLAT L01
+varga
